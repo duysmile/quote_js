@@ -4,10 +4,17 @@ body{
     font-family: Raleway;
 }
 .body__quote--layout{
-    font-size: 50px;
+    font-size: 30px;
     background: #fff;
-    width: 450px;
+    width: 800px;
     margin: 8% auto auto auto;
     box-shadow: 3px 2px 8px #999;
     border-radius: 4px; 
+}
+#quote{
+    transition: all 2s;
+}
+#author{
+    display: block;
+    font-size: 15px;
 }
