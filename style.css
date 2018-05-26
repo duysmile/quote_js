@@ -1,0 +1,13 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,500);
+body{
+    background: #eee;
+    font-family: Raleway;
+}
+.body__quote--layout{
+    font-size: 50px;
+    background: #fff;
+    width: 450px;
+    margin: 8% auto auto auto;
+    box-shadow: 3px 2px 8px #999;
+    border-radius: 4px; 
+}
