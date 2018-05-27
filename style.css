@@ -8,11 +8,12 @@ body{
     background: #fff;
     width: 800px;
     margin: 8% auto auto auto;
-    box-shadow: 3px 2px 8px #999;
     border-radius: 4px; 
 }
-#quote{
-    transition: all 2s;
+.btn{
+    color: #fff;
+    outline: none;
+    border: none;
 }
 #author{
     display: block;
